@@ -18,3 +18,8 @@ The app interface is easy to use. The user simply fills out each respective fiel
 
 ## Limitations and Improvements
 ## Links and References
+Alzheimer’s disease - Diagnosis and treatment - Mayo Clinic. (n.d.). https://www.mayoclinic.org/diseases-conditions/alzheimers-disease/diagnosis-treatment/drc-20350453
+
+Alzheimer’s disease - Symptoms and causes. (n.d.). Mayo Clinic. https://www.mayoclinic.org/diseases-conditions/alzheimers-disease/symptoms-causes/syc-20350447
+
+Rabie El Kharoua. (2024). 🧠 Alzheimer's Disease Dataset 🧠 [Data set]. Kaggle. https://doi.org/10.34740/KAGGLE/DSV/8668279
