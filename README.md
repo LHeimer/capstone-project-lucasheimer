@@ -17,6 +17,7 @@ This app was created to predict the probability of a Alzheimer's Diagnosis using
 The app interface is easy to use. The user simply fills out each respective field and the app will dynamically update the probabilities. By default, the data is set to a value that is considered on average to be a "healthy" level for a given parameter.
 
 ## Limitations and Improvements
+As mentioned previously the dataset used to train the model is synthetic so there are limitations to improve upon. One main example of this is the age range for the data is limited to 60-90 years old so it would be important to include additional data which broadens the range. Since the purpose of this app would be to predict the likelihood of onset of Alzheimer's, many users would likely want to know their probabilities at an age younger than 60. This improvement applies to several other categories within the dataset which do not have the full range of potential values represented. Additional data will help further train the neural network to provide accurate predictions.
 ## Links and References
 Alzheimer’s disease - Diagnosis and treatment - Mayo Clinic. (n.d.). https://www.mayoclinic.org/diseases-conditions/alzheimers-disease/diagnosis-treatment/drc-20350453
 
