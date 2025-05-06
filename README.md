@@ -1,4 +1,5 @@
 # Capstone Project: Alzheimer's Diagnosis Prediction App
+#### Author: Lucas Heimer
 ## Rationale
 Alzheimer's Disease is the most common form of dementia among the elderly population worldwide. It is a neurodegenerative disease that often results in memory loss, difficulty completing daily tasks, and personality changes. Diagnosis of Alzheimer's usally requires anything from neurological exams to brain imaging. Although the exact cause of the disease is unknown research has found there are many lifestyle factors beyond increased age that affect the potential onset of the disease. The goal of this app is to combine data from both lifestyle factors and clinical testing to predict the likelihood of an Alzheimer's Disease diagnosis. Knowledge about an individual's risk for developing this form of dementia may allow him/her to make necessary lifestyle changes to prevent or slow the progression of its onset.
 ## Description
